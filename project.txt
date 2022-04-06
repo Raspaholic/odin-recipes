@@ -1,0 +1,6 @@
+Publishing Web Projects directly from a GitHub Repository: 
+  Make sure main HTML file is called index.html
+  Go to GitHub Repo on the web and click the Settings button
+  Click on Pages on the left side
+  Change the Source from none to main branch and click Save
+  
